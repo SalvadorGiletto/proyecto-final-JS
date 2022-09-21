@@ -142,7 +142,7 @@ idForm.addEventListener("submit", (e) => {
 
 
 
-//Boton mostrar reservas
+//Boton mostrar reservas de mesas
 formButton.addEventListener("click", () => {
     mesasOcupadas.innerHTML = ""
 
