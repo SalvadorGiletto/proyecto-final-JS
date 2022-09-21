@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Paella",
+        "ingredientes": "Arroz, mariscos, conejo",
+        "origen": "España",
+        "img": "paella.webp"
+    },
+    {
+        "nombre": "Pizza",
+        "ingredientes": "Harina, sal, agua, salsa de tomate y levadura",
+        "origen": "Italia",
+        "img": "pizza-italiana.webp"
+    },
+    {
+        "nombre": "Mole",
+        "ingredientes": "Frutos, chiles, chocolate",
+        "origen": "México",
+        "img": "mole.webp"
+    },
+    {
+        "nombre": "Pollo Tandoori",
+        "ingredientes": "Pollo, especias, yogurt y cúrcuma",
+        "origen": "India",
+        "img": "pollo-tandoori.webp"
+    },
+    {
+        "nombre": "Bratwurst",
+        "ingredientes": "Salchicha alemana, cebolla, patatas y salsa",
+        "origen": "Alemania",
+        "img": "bratwurst.webp"
+    }
+]
